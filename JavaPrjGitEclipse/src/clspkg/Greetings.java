@@ -9,8 +9,8 @@ public class Greetings {
 		// TODO Auto-generated method stub
 		System.out.println("Greetings LYIT Student!");
 		System.out.println("Greetings Everyone!");
-		//some important comment
-		System.out.println("Line on local repository");
+		//some important comments
+		//some more comments
 	}
 
 }
